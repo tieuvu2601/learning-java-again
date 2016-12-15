@@ -1,4 +1,5 @@
-package src.com.khanh.tran;
+package com.khanh.tran;
+
 
 import com.object.in.java.ColorObject;
 

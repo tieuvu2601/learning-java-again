@@ -1,4 +1,4 @@
-package src.com.object.in.java;
+package com.object.in.java;
 
 /**
  * Created by Khanh Tran on 12/15/2016.
